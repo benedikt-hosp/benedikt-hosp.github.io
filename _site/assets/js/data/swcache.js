@@ -23,6 +23,8 @@ const resource = [
     
         '/about/',
     
+        '/tags/',
+    
 
     /* --- Favicons & compressed JS --- */
     
