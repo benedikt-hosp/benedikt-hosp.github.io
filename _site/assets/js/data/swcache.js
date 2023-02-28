@@ -47,7 +47,7 @@ const resource = [
 const allowedDomains = [
     
 
-    'benedikt-hosp.github.io',
+    'localhost:4000',
 
     
 
