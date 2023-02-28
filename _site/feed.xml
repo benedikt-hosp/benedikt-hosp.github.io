@@ -1,22 +1,98 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>/</id>
-  <title>Chirpy</title>
+  <id>http://localhost:4000/</id>
+  <title>Benedikt Hosp</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2023-02-28T16:58:51+01:00</updated>
+  <updated>2023-02-28T19:25:34+01:00</updated>
   <author>
-    <name>your_full_name</name>
-    <uri>/</uri>
+    <name>Benedikt Hosp</name>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
-  <rights> © 2023 your_full_name </rights>
+  <rights> © 2023 Benedikt Hosp </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Thesis on Detection and tracking of soccer players in 360 degree videos for automatic AOI generation.</title>
+    <link href="http://localhost:4000/posts/thesis-fbm-gehring/" rel="alternate" type="text/html" title="Thesis on Detection and tracking of soccer players in 360 degree videos for automatic AOI generation." />
+    <published>2023-02-28T17:20:00+01:00</published>
+  
+    <updated>2023-02-28T17:20:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/thesis-fbm-gehring/</id>
+    <content src="http://localhost:4000/posts/thesis-fbm-gehring/" />
+    <author>
+      <name>Benedikt Hosp</name>
+    </author>
+
+  
+    
+    <category term="Thesis" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Object tracking has long been an established area of research in computer vision.
+ The objective is to identify objects in a video and track their location while maintaining 
+ a given identity for the duration of their visibility. Applications can be found in many practical areas, 
+ such as surveillance technology, autonomous driving, or animal and bacterial behavior studies. Typically, 
+ track...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Thesis on Development of an omnidirectional 2D/3D virtual reality experiment designer and player for eye tracking studies</title>
+    <link href="http://localhost:4000/posts/Initial/" rel="alternate" type="text/html" title="Thesis on Development of an omnidirectional 2D/3D virtual reality experiment designer and player for eye tracking studies" />
+    <published>2023-02-28T17:15:00+01:00</published>
+  
+    <updated>2023-02-28T17:15:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/Initial/</id>
+    <content src="http://localhost:4000/posts/Initial/" />
+    <author>
+      <name>Benedikt Hosp</name>
+    </author>
+
+  
+    
+    <category term="Thesis" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      The objective was to write software that can be used for scientific purposes. 
+The idea was that different stimuli could be loaded into a UI (here called “Experiment Designer”), 
+and these stimuli are then correctly classified and subsequently correctly merged into a list. 
+It is then possible to customize the stimuli, such as the initial camera rotation for 360-degree videos or
+ how long an im...
+    </summary>
+  
+
+  </entry>
 
 </feed>
 
