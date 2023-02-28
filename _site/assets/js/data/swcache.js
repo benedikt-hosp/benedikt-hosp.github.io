@@ -11,6 +11,14 @@ const resource = [
     '/404.html',
 
     
+        '/categories/',
+    
+        '/tags/',
+    
+        '/archives/',
+    
+        '/about/',
+    
 
     /* --- Favicons & compressed JS --- */
     
@@ -35,7 +43,7 @@ const resource = [
 const allowedDomains = [
     
 
-    'localhost:4000',
+    '',
 
     
 
