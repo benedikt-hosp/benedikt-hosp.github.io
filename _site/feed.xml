@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>https://benedikt-hosp.github.io/</id>
   <title>Benedikt Hosp</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2023-02-28T19:25:34+01:00</updated>
+  <updated>2023-02-28T19:28:43+01:00</updated>
   <author>
     <name>Benedikt Hosp</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>https://benedikt-hosp.github.io/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://benedikt-hosp.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/"/>
+    href="https://benedikt-hosp.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <rights> © 2023 Benedikt Hosp </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Thesis on Detection and tracking of soccer players in 360 degree videos for automatic AOI generation.</title>
-    <link href="http://localhost:4000/posts/thesis-fbm-gehring/" rel="alternate" type="text/html" title="Thesis on Detection and tracking of soccer players in 360 degree videos for automatic AOI generation." />
+    <link href="https://benedikt-hosp.github.io/posts/thesis-fbm-gehring/" rel="alternate" type="text/html" title="Thesis on Detection and tracking of soccer players in 360 degree videos for automatic AOI generation." />
     <published>2023-02-28T17:20:00+01:00</published>
   
     <updated>2023-02-28T17:20:00+01:00</updated>
   
-    <id>http://localhost:4000/posts/thesis-fbm-gehring/</id>
-    <content src="http://localhost:4000/posts/thesis-fbm-gehring/" />
+    <id>https://benedikt-hosp.github.io/posts/thesis-fbm-gehring/</id>
+    <content src="https://benedikt-hosp.github.io/posts/thesis-fbm-gehring/" />
     <author>
       <name>Benedikt Hosp</name>
     </author>
@@ -59,13 +59,13 @@
   
   <entry>
     <title>Thesis on Development of an omnidirectional 2D/3D virtual reality experiment designer and player for eye tracking studies</title>
-    <link href="http://localhost:4000/posts/Initial/" rel="alternate" type="text/html" title="Thesis on Development of an omnidirectional 2D/3D virtual reality experiment designer and player for eye tracking studies" />
+    <link href="https://benedikt-hosp.github.io/posts/Initial/" rel="alternate" type="text/html" title="Thesis on Development of an omnidirectional 2D/3D virtual reality experiment designer and player for eye tracking studies" />
     <published>2023-02-28T17:15:00+01:00</published>
   
     <updated>2023-02-28T17:15:00+01:00</updated>
   
-    <id>http://localhost:4000/posts/Initial/</id>
-    <content src="http://localhost:4000/posts/Initial/" />
+    <id>https://benedikt-hosp.github.io/posts/Initial/</id>
+    <content src="https://benedikt-hosp.github.io/posts/Initial/" />
     <author>
       <name>Benedikt Hosp</name>
     </author>
